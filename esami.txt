@@ -1,0 +1,7 @@
+esame1,6,30
+esame2,8,28
+esame3,3,25
+esame4,10,18
+esame5,9,20
+esame6,12,27
+esame7,3,26
