@@ -26,7 +26,7 @@ vote_30 = tot_exams/tot_credits
 vote_110 = vote_30 * 11 / 3
 
 print('#############################################\n')
-print('voto: ' + str(round(vote_30,2)) + '\n')
+print('media: ' + str(round(vote_30,2)) + '\n')
 print('base di laurea: ' + str(round(vote_110,0)))
     
 
