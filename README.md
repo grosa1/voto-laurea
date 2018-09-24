@@ -25,7 +25,7 @@ Esempio di output:
 
 #############################################
 
-voto: 24.33
+media: 24.33
 
 base di laurea: 89.0
 ```
