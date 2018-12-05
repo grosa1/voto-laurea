@@ -23,11 +23,11 @@ with open(exams_data, 'r') as f:
         tot_credits += int(row[1])
 
 vote_30 = tot_exams/tot_credits
-vote_110 = vote_30 * 11 / 3
+vote_110 = (round(vote_30,2) * 11) / 3
 
 print('#############################################\n')
 print('media: ' + str(round(vote_30,2)) + '\n')
-print('base di laurea: ' + str(round(vote_110,0)))
+print('base di laurea: ' + str(round(vote_110,2)))
     
 
 
